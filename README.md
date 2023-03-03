@@ -1,16 +1,5 @@
 ### Hi there 👋
+I am new here! starting to learn from zero! 
+:)
 
-<!--
-**XatraL/XatraL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Learning code
-- 🌱 I’m currently learning code
-- 👯 I’m looking to collaborate on code
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
